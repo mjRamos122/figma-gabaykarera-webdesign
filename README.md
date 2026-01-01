@@ -1,4 +1,4 @@
-# figma-gabaykarera-webdesign
+# figma-grp.project-webdesign
 
 ## Project Details
 - Type: Web Application UI
